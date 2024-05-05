@@ -1,5 +1,5 @@
 # Resume
 My professional resume
 
+![image](https://github.com/Bhanudeep/Resume/assets/49368483/d73ed0b3-8fc3-441c-acfa-dab20339e026)
 
-![Screenshot_20230224_103048](https://user-images.githubusercontent.com/49368483/221240959-24225cbb-c664-4c36-a834-a0dabd67ed88.png)
